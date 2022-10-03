@@ -42,12 +42,12 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 global.thumb = fs.readFileSync('./image/thumbnail.jpg')
-global.name = 'Aulia Rahman (Owner)',
-global.owner = ['6285821676621']
-global.premium = ['6285821676621']
-global.botname = 'LiaaCans BOT'
+global.name = 'owner (Owner)',
+global.owner = ['8617791041360']
+global.premium = ['8617791041360']
+global.botname = 'mei BOT'
 global.packname = 'Nih Stikel Umtukmu'
-global.author = 'LiaaCans BOT'
+global.author = 'mei BOT'
 global.prefa = ['','!','.','/','#','$']
 global.sp = '⭔'
 global.mess = {
